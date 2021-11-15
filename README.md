@@ -1,1 +1,2 @@
 # rekursifmetot
+- odev yuklendi
