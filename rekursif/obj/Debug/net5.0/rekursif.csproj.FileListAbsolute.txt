@@ -1,0 +1,16 @@
+C:\Users\volkan\OneDrive\Belgeler\pratikler\rekursif\bin\Debug\net5.0\rekursif.exe
+C:\Users\volkan\OneDrive\Belgeler\pratikler\rekursif\bin\Debug\net5.0\rekursif.deps.json
+C:\Users\volkan\OneDrive\Belgeler\pratikler\rekursif\bin\Debug\net5.0\rekursif.runtimeconfig.json
+C:\Users\volkan\OneDrive\Belgeler\pratikler\rekursif\bin\Debug\net5.0\rekursif.runtimeconfig.dev.json
+C:\Users\volkan\OneDrive\Belgeler\pratikler\rekursif\bin\Debug\net5.0\rekursif.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\rekursif\bin\Debug\net5.0\ref\rekursif.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\rekursif\bin\Debug\net5.0\rekursif.pdb
+C:\Users\volkan\OneDrive\Belgeler\pratikler\rekursif\obj\Debug\net5.0\rekursif.csproj.AssemblyReference.cache
+C:\Users\volkan\OneDrive\Belgeler\pratikler\rekursif\obj\Debug\net5.0\rekursif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volkan\OneDrive\Belgeler\pratikler\rekursif\obj\Debug\net5.0\rekursif.AssemblyInfoInputs.cache
+C:\Users\volkan\OneDrive\Belgeler\pratikler\rekursif\obj\Debug\net5.0\rekursif.AssemblyInfo.cs
+C:\Users\volkan\OneDrive\Belgeler\pratikler\rekursif\obj\Debug\net5.0\rekursif.csproj.CoreCompileInputs.cache
+C:\Users\volkan\OneDrive\Belgeler\pratikler\rekursif\obj\Debug\net5.0\rekursif.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\rekursif\obj\Debug\net5.0\ref\rekursif.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\rekursif\obj\Debug\net5.0\rekursif.pdb
+C:\Users\volkan\OneDrive\Belgeler\pratikler\rekursif\obj\Debug\net5.0\rekursif.genruntimeconfig.cache
